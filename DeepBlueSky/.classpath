@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="lib/antlr-2.7.6.jar"/>
 	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
@@ -10,5 +11,21 @@
 	<classpathentry kind="lib" path="lib/hibernate-core-3.6.7.Final.jar"/>
 	<classpathentry kind="lib" path="lib/lucene-core-3.1.0.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="lib/gmbal-api-only-3.0.0-b023.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-framework-2.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-grapher-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-jmx-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-jndi-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-multibindings-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-persist-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-spring-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-struts2-plugin-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/guice-throwingproviders-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
